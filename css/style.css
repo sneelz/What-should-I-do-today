@@ -58,7 +58,7 @@ body {
 
 @media screen and (max-width: 768px) {
     .covid-main {
-        padding: 2rem;
+        padding: 2rem 1rem;
     }
 
     .covid-main .covid-heading {
