@@ -60,4 +60,14 @@ body {
     .covid-main {
         padding: 4rem 2rem 2rem 2rem;
     }
+
+    .covid-main .covid-heading {
+        font-size: 3rem;
+    }
+    
+    .covid-main .covid-activity {
+        font-size: 2rem;
+        margin-top: 3rem;
+        margin-bottom: 3rem;
+    }
 }
