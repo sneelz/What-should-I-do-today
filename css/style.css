@@ -1,0 +1,63 @@
+body {
+    overflow-y: scroll;
+    overflow-x: hidden;
+    font-family: Arial;
+}
+
+.covid-main {
+    padding: 6rem 4rem 4rem 4rem;
+}
+
+.covid-main .covid-heading {
+    font-size: 4rem;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.covid-main .covid-subheading {
+    text-transform: uppercase;
+    font-style: italic;
+}
+
+.covid-main .covid-activity {
+    font-size: 3rem;
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+    text-transform: uppercase;
+    color: #000;
+}
+
+.covid-main .covid-activity a {
+    text-decoration: underline;
+    color: #000;
+}
+.covid-main .covid-activity a:hover {
+    opacity: .8;
+}
+
+.covid-main .covid-button {
+    font-weight: 700;
+    border: 3px #000 solid;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    padding: 1rem 2rem;
+}
+
+.covid-main .covid-button:hover {
+    background-color: #000;
+    color: #fff;
+}
+
+.covid-main .covid-footer {
+    margin-top: 4rem;
+}
+.covid-main .covid-footer a {
+    color: #000;
+    text-decoration: underline;
+}
+
+@media screen and (max-width: 768px) {
+    .covid-main {
+        padding: 4rem 2rem 2rem 2rem;
+    }
+}
