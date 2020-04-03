@@ -105,7 +105,7 @@ var activityData = {
         },
         {
             "activity": "Do some yoga",
-            "hyperlink": "https://www.doyogawithme.com/",
+            "hyperlink": "https://www.youtube.com/results?search_query=yoga+class",
         },
         {
             "activity": "Lurk Reddit",
@@ -189,7 +189,7 @@ var activityData = {
         },
         {
             "activity": "Start a skincare routine",
-            "hyperlink": "https://www.nytimes.com/guides/tmagazine/skincare-routine"
+            "hyperlink": "https://www.reddit.com/r/SkincareAddiction/wiki/sca_routine"
         },
         {
             "activity": "Create a mood board",
@@ -238,6 +238,46 @@ var activityData = {
         {
             "activity": "Learn origami",
             "hyperlink": "https://origami.me/diagrams/"
+        },
+        {
+            "activity": "Bake some bread",
+            "hyperlink": "https://www.tasteofhome.com/recipes/basic-homemade-bread/"
+        },
+        {
+            "activity": "Play Wikipedia roulette",
+            "hyperlink": "http://wikiroulette.co/"
+        },
+        {
+            "activity": "Play Minecraft",
+            "hyperlink": "https://www.minecraft.net/en-us/"
+        },
+        {
+            "activity": "Take a personality test",
+            "hyperlink": "https://www.16personalities.com/"
+        },
+        {
+            "activity": "Play Neopets",
+            "hyperlink": "http://www.neopets.com/"
+        },
+        {
+            "activity": "Play the Internet Arcade",
+            "hyperlink": "https://archive.org/details/internetarcade"
+        },
+        {
+            "activity": "Discover music on SoundCloud",
+            "hyperlink": "https://soundcloud.com/"
+        },
+        {
+            "activity": "Help transcribe Reddit",
+            "hyperlink": "https://www.reddit.com/r/TranscribersOfReddit/"
+        },
+        {
+            "activity": "Help transcribe the Library of Congress",
+            "hyperlink": "https://crowd.loc.gov/campaigns-topics/"
+        },
+        {
+            "activity": "Help identify wildlife in Kenya",
+            "hyperlink": "https://www.zooniverse.org/projects/sandiegozooglobal/wildwatch-kenya"
         },
         {
             "activity": "Call your mom"
