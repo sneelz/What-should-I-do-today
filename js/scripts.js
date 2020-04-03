@@ -280,6 +280,30 @@ var activityData = {
             "hyperlink": "https://www.zooniverse.org/projects/sandiegozooglobal/wildwatch-kenya"
         },
         {
+            "activity": "Watch Bob Ross",
+            "hyperlink": "https://www.twitch.tv/bobross"
+        },
+        {
+            "activity": "Watch Pokemon from the beginning",
+            "hyperlink": "https://www.pokemon.com/us/pokemon-episodes/pokemon-tv-seasons/season-1/"
+        },
+        {
+            "activity": "Watch performances from the Kennedy Center",
+            "hyperlink": "https://www.youtube.com/playlist?list=PL14hRqd0PELEorMts-pf_WDX6NJahRayP"
+        },
+        {
+            "activity": "Explore Mars",
+            "hyperlink": "https://accessmars.withgoogle.com/"
+        },
+        {
+            "activity": "Make pizza",
+            "hyperlink": "https://www.simplyrecipes.com/recipes/homemade_pizza/"
+        },
+        {
+            "activity": "Start a book club",
+            "hyperlink": "https://zoom.us/"
+        },
+        {
             "activity": "Call your mom"
         },
         {
