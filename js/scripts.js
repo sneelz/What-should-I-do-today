@@ -325,7 +325,7 @@ var activityData = {
             "activity": "Build a fort"
         },
         {
-            "activity": "Alphebetize your spice cabinet"
+            "activity": "Alphabetize your spice cabinet"
         },
         {
             "activity": "Take a nap"
