@@ -304,85 +304,116 @@ var activityData = {
             "hyperlink": "https://zoom.us/"
         },
         {
-            "activity": "Call your mom"
+            "activity": "Call your mom",
+            "hyperlink": "https://zoom.us/"
         },
         {
-            "activity": "Call your dad"
+            "activity": "Call your dad",
+            "hyperlink": "https://zoom.us/"
         },
         {
-            "activity": "Call a friend"
+            "activity": "Call a friend",
+            "hyperlink": "https://zoom.us/"
         },
         {
-            "activity": "Call a relative"
+            "activity": "Call a relative",
+            "hyperlink": "https://zoom.us/"
         },
         {
-            "activity": "Go for a walk (at least 6ft from others)"
+            "activity": "Go for a walk (at least 6ft from others)",
+            "hyperlink": "https://www.google.com/search?q=trails%20near%20me"
         },
         {
-            "activity": "Write a letter to your future self"
+            "activity": "Write a letter to your future self",
+            "hyperlink": "https://www.futureme.org/"
         },
         {
-            "activity": "Build a fort"
+            "activity": "Build a fort",
+            "hyperlink": "https://www.wikihow.com/Make-a-Blanket-Fort"
         },
         {
-            "activity": "Alphabetize your spice cabinet"
+            "activity": "Alphabetize your spice cabinet",
+            "hyperlink": "https://www.goodhousekeeping.com/home/organizing/g3124/how-to-organize-your-spices/"
         },
         {
-            "activity": "Take a nap"
+            "activity": "Take a nap",
+            "hyperlink": "https://www.youtube.com/watch?v=R2TBJPXtnAs"
         },
         {
-            "activity": "Write a story"
+            "activity": "Write a story",
+            "hyperlink": "https://blog.reedsy.com/creative-writing-prompts/"
         },
         {
-            "activity": "Write a song"
+            "activity": "Write a song",
+            "hyperlink": "https://www.song-lyrics-generator.org.uk/"
         },
         {
-            "activity": "Play a board game"
+            "activity": "Play a board game",
+            "hyperlink": "https://en.boardgamearena.com/"
         },
         {
-            "activity": "Do a puzzle"
+            "activity": "Do a puzzle",
+            "hyperlink": "https://www.jigsawexplorer.com/"
         },
         {
-            "activity": "Learn an instrument"
+            "activity": "Learn an instrument",
+            "hyperlink": "https://www.youtube.com/results?search_query=learn+an+instrument"
         },
         {
-            "activity": "Watch a movie"
+            "activity": "Watch a movie",
+            "hyperlink": "https://tubitv.com/home"
         },
         {
-            "activity": "Get dressed up with nowhere to go"
+            "activity": "Get dressed up with nowhere to go",
+            "hyperlink": "https://www.youtube.com/results?search_query=get+ready+with+me"
         },
         {
-            "activity": "Play an old video game"
+            "activity": "Play an old video game",
+            "hyperlink": "https://www.retrogames.cz/?language=EN"
         },
         {
-            "activity": "Organize your kitchen"
+            "activity": "Organize your kitchen",
+            "hyperlink": "https://www.youtube.com/results?search_query=how+to+organize+your+kitchen"
         },
         {
-            "activity": "Organize your closet"
+            "activity": "Organize your closet",
+            "hyperlink": "https://www.youtube.com/results?search_query=how+to+organize+your+closet"
         },
         {
-            "activity": "Take a bubble bath"
+            "activity": "Take a bubble bath",
+            "hyperlink": "https://www.wikihow.com/Take-a-Bath"
         },
         {
-            "activity": "Color a coloring book"
+            "activity": "Color a coloring book",
+            "hyperlink": "https://www.mombooks.com/mom/online-activities"
         },
         {
-            "activity": "Do an at-home wine tasting"
+            "activity": "Do an at-home wine tasting",
+            "hyperlink": "https://vinepair.com/articles/how-to-host-the-perfect-at-home-wine-tasting/"
         },
         {
-            "activity": "Do your taxes"
+            "activity": "Do your taxes",
+            "hyperlink": "https://turbotax.intuit.com/"
         },
         {
-            "activity": "Teach your pet a new trick"
+            "activity": "Teach your dog a new trick",
+            "hyperlink": "http://www.doggiebuddy.com/topics/Trainingtopics/traintopic3.html"
         },
         {
-            "activity": "Watch the Harry Potter movies"
+            "activity": "Watch the Harry Potter movies",
+            "hyperlink": "https://www.google.com/search?&q=stream+harry+potter+movies"
         },
         {
-            "activity": "Watch the Star Wars movies"
+            "activity": "Watch the Star Wars movies",
+            "hyperlink": "https://www.disneyplus.com/"
         },
         {
-            "activity": "Watch the Lord of the Rings movies"
+            "activity": "Watch the Lord of the Rings movies",
+            "hyperlink": "https://www.google.com/search?&q=stream+lord+of+the+rings+movies"
+        },
+        {
+            "activity": "Get sorted into a Hogwarts House",
+            "hyperlink": "https://www.wizardingworld.com/news/discover-your-hogwarts-house-on-wizarding-world"
         },
     ]
 };
