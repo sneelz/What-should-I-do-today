@@ -301,7 +301,7 @@ var activityData = {
         },
         {
             "activity": "Start a book club",
-            "hyperlink": "https://zoom.us/"
+            "hyperlink": "https://bookclubz.com/"
         },
         {
             "activity": "Call your mom",
