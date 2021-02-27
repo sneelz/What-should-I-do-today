@@ -25,6 +25,7 @@ body {
     margin-bottom: 4rem;
     text-transform: uppercase;
     color: #000;
+    min-height: 120px;
 }
 
 .covid-main .covid-activity a {
